@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"name": "ESP-IDF_QueueMultipleReceivers",
+			"path": "."
+		}
+	],
+    "settings": {
+        "files.associations": {
+            "string": "c",
+            "vector": "c",
+            "exception": "c",
+            "limits": "c",
+            "sstream": "c",
+            "functional": "c"
+        }
+    }
+}
